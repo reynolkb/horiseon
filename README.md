@@ -10,4 +10,4 @@
 # Deployed Application
 ## https://reynolkb.github.io/horiseon/
 # screenshot
-## ![Alt text]("./assets/images/screenshot.png")
+## ![Alt text](./assets/images/screenshot.png)
