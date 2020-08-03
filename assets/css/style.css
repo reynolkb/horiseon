@@ -109,17 +109,17 @@ header nav ul li {
     background-color: #2589bd;
 }
 
-.benefit {
+.benefit-block {
     margin-bottom: 32px;
     color: #ffffff;
 }
 
-.benefit h3 {
+.benefit-block h3 {
     margin-bottom: 10px;
     text-align: center;
 }
 
-.benefit img {
+.benefit-block img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
