@@ -9,3 +9,5 @@
 ## The CSS classes have been combined since there were multiple classes using the same code.
 # Deployed Application
 ## https://reynolkb.github.io/horiseon/
+# screenshot
+## ![Alt text]("./assets/images/screenshot.png?raw=true" "Optional Title")
