@@ -9,7 +9,7 @@ I have updated the HTML div elements and replaced them with the appropriate tags
 Deployed Application
 https://reynolkb.github.io/horiseon/
 
-## Table of Contents (Optional)
+## Table of Contents
 
 * [Installation](#installation)
 * [Usage](#usage)
